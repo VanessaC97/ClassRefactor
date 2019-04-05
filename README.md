@@ -1,6 +1,6 @@
 # ClassRefactor
 
-###Intructions 
+### Intructions 
 
 *Clone this repository in IntelliJ Idea
 [GitHub](https://github.com/hergin/Refactoring-JB.git)
